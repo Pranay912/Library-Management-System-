@@ -1,0 +1,28 @@
+
+FILE STRUCTURE
+
+1.	STUDENT.DAT
+
+  int NOB;
+  int  std;
+  int fine;
+  char sname[30];
+  date1 d1,d2;
+  int enrollno; 
+
+          struct date1:
+	int day;
+	int mon;
+	int year;
+
+2.	BOOK.DAT
+
+  int qty;
+  int total_books;
+  char bname[30];
+  char author[30];
+  float price;
+  int bno;
+
+
+
